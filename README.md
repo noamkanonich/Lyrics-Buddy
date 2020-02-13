@@ -7,3 +7,4 @@ It also fetches the songs album cover from other external API to give users a im
 enter to -
 
 # Screenshot
+![Lyrics Buddy Screenshot](https://user-images.githubusercontent.com/55742997/74413839-dc5e4980-4e48-11ea-8001-6f6e5922fa7a.jpg)
